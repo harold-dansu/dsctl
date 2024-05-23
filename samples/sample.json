@@ -3,7 +3,7 @@
   "description": "Schema for an example event",
   "self": {
     "vendor": "com.snplow.eng.aws",
-    "name": "an_event",
+    "name": "ds_event",
     "format": "jsonschema",
     "version": "1-0-0"
   },
